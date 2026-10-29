@@ -180,15 +180,6 @@ The Flutter application was successfully developed using Row, Column, Container,
 | Framework | Flutter |
 | Platform | Flutter Web / Chrome |
 
----
-
-## License
-
-This project is developed for academic and educational purposes as part of the 24CS2016 – Building Applications using Flutter laboratory course.
-
-© 2026 Sherlinteena M. All rights reserved.
-
----
 
 ## Conclusion
 
